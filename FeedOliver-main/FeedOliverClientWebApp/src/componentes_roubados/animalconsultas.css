@@ -1,0 +1,519 @@
+.animalconsultas-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.animalconsultas-animal-consultas {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.animalconsultas-screen {
+  top: -10px;
+  left: -6px;
+  width: 376px;
+  height: 817px;
+  position: absolute;
+}
+.animalconsultas-page-context {
+  gap: 53px;
+  top: 181px;
+  left: 25px;
+  width: 310px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.animalconsultas-next-appointment {
+  width: 310px;
+  height: 213px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(192, 242, 142, 1);
+}
+.animalconsultas-text {
+  top: 8px;
+  left: 13px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.animalconsultas-text02 {
+  top: 45px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.animalconsultas-mdicalendar {
+  top: 45px;
+  left: 7px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.animalconsultas-mingcutetimeline {
+  top: 69px;
+  left: 7px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.animalconsultas-group {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.animalconsultas-vector {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.animalconsultas-last-appointment {
+  top: 422px;
+  left: 25px;
+  width: 310px;
+  height: 207px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(192, 242, 142, 1);
+}
+.animalconsultas-text12 {
+  top: 34.22834777832031px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.animalconsultas-text26 {
+  top: 7px;
+  left: 13px;
+  color: rgba(0, 0, 0, 1);
+  width: 187px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.animalconsultas-mdicalendar1 {
+  top: 34px;
+  left: 7px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.animalconsultas-phpillduotone {
+  top: 534px;
+  left: 32px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.animalconsultas-group1 {
+  top: 2.2500147819519043px;
+  left: 2.2946131229400635px;
+  width: 19.455310821533203px;
+  height: 19.455833435058594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.animalconsultas-vector01 {
+  top: 6.749985694885254px;
+  left: 0.7051342129707336px;
+  width: 12px;
+  height: 12px;
+  opacity: 0.20;
+  position: absolute;
+}
+.animalconsultas-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.animalconsultas-botoes {
+  top: 87px;
+  left: 17px;
+  width: 321px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.animalconsultas-ellipse9 {
+  top: 0px;
+  left: 0px;
+  width: 67px;
+  height: 65px;
+  position: absolute;
+}
+.animalconsultas-ellipse12 {
+  top: 0px;
+  left: 168px;
+  width: 67px;
+  height: 65px;
+  position: absolute;
+}
+.animalconsultas-ellipse13 {
+  top: 1px;
+  left: 254px;
+  width: 67px;
+  height: 65px;
+  position: absolute;
+}
+.animalconsultas-ellipse11 {
+  top: 1px;
+  left: 84px;
+  width: 67px;
+  height: 65px;
+  position: absolute;
+}
+.animalconsultas-vector03 {
+  top: 19px;
+  left: 21px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+}
+.animalconsultas-phbonelight {
+  top: 11px;
+  left: 268px;
+  width: 40px;
+  height: 42px;
+  position: absolute;
+}
+.animalconsultas-healthiconsweightoutline {
+  top: 9px;
+  left: 94px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.animalconsultas-group2 {
+  top: 6px;
+  left: 6.228834629058838px;
+  width: 35.543331146240234px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.animalconsultas-vector04 {
+  top: 5.000144004821777px;
+  left: 5.801284313201904px;
+  width: 24px;
+  height: 12px;
+  position: absolute;
+}
+.animalconsultas-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.animalconsultas-rectangle3406 {
+  top: 662px;
+  left: 51px;
+  width: 258px;
+  height: 34px;
+  position: absolute;
+  border-radius: 75px;
+}
+.animalconsultas-text28 {
+  top: 667px;
+  left: 117px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.animalconsultas-icroundplus {
+  top: 664px;
+  left: 219px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.animalconsultas-group3 {
+  top: 100px;
+  left: 200px;
+  width: 37.14285659790039px;
+  height: 37.14285659790039px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.animalconsultas-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+}
+.animalconsultas-vector07 {
+  top: 11.605713844299316px;
+  left: 9.371428489685059px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.animalconsultas-footer {
+  top: 728px;
+  left: -6px;
+  width: 377px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(192, 242, 142, 1);
+}
+.animalconsultas-vector08 {
+  top: 21px;
+  left: 265px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.animalconsultas-group28 {
+  top: 21px;
+  left: 76px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.animalconsultas-vector09 {
+  top: 2.307692289352417px;
+  left: 0px;
+  width: 30px;
+  height: 28px;
+  position: absolute;
+}
+.animalconsultas-vector10 {
+  top: 11.538461685180664px;
+  left: 16.15386962890625px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector11 {
+  top: 11.538461685180664px;
+  left: 21.923095703125px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector12 {
+  top: 17.30769157409668px;
+  left: 16.15386962890625px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector13 {
+  top: 17.30769157409668px;
+  left: 21.923095703125px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector14 {
+  top: 17.30769157409668px;
+  left: 4.6153564453125px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector15 {
+  top: 17.30769157409668px;
+  left: 10.3846435546875px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector16 {
+  top: 23.076923370361328px;
+  left: 4.6153564453125px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector17 {
+  top: 23.076923370361328px;
+  left: 10.3846435546875px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector18 {
+  top: 23.076923370361328px;
+  left: 16.15386962890625px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.animalconsultas-vector19 {
+  top: 0px;
+  left: 5.769230842590332px;
+  width: 18px;
+  height: 2px;
+  position: absolute;
+}
+.animalconsultas-vector20 {
+  top: 8.076923370361328px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.animalconsultas-vector21 {
+  top: 13px;
+  left: 163px;
+  width: 50px;
+  height: 45px;
+  position: absolute;
+}
+.animalconsultas-topo {
+  top: 0px;
+  left: 0px;
+  width: 362px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(192, 242, 142, 1);
+}
+.animalconsultas-carbongenderfemale {
+  top: 23px;
+  left: 160.88888549804688px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.animalconsultas-text30 {
+  top: 11px;
+  left: 49.453521728515625px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.animalconsultas-ellipse6 {
+  top: 18px;
+  left: 7.038888931274414px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+}
+.animalconsultas-fluentanimalcat20regular {
+  top: 18px;
+  left: 8.04444408416748px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.animalconsultas-vector22 {
+  top: 16px;
+  left: 255.41111755371094px;
+  width: 37px;
+  height: 39px;
+  position: absolute;
+}
+.animalconsultas-vector23 {
+  top: 20px;
+  left: 305.68890380859375px;
+  width: 36px;
+  height: 32px;
+  position: absolute;
+}

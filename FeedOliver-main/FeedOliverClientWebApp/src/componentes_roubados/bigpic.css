@@ -1,0 +1,30 @@
+.bigpic-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bigpic-group2 {
+  width: 212px;
+  height: 213px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bigpic-ellipse5 {
+  top: 0px;
+  left: 0px;
+  width: 212px;
+  height: 202px;
+  position: absolute;
+}
+.bigpic-fluentperson32filled {
+  top: 23.835039138793945px;
+  left: 7.100478649139404px;
+  width: 199px;
+  height: 189px;
+  position: absolute;
+}

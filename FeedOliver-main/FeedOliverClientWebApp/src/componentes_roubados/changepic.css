@@ -1,0 +1,105 @@
+.changepic-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.changepic-changepic {
+  width: 100%;
+  height: 327px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.changepic-group22 {
+  top: 259px;
+  left: 235px;
+  width: 114px;
+  height: 57px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(192, 242, 142, 1);
+}
+.changepic-text {
+  top: 16px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.changepic-group23 {
+  top: 259px;
+  left: 10px;
+  width: 114px;
+  height: 57px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(192, 242, 142, 1);
+}
+.changepic-text2 {
+  top: 16px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.changepic-group24 {
+  top: 20.5789794921875px;
+  left: 72.732177734375px;
+  width: 212px;
+  height: 200.8420867919922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.changepic-ellipse5 {
+  top: 0px;
+  left: 0px;
+  width: 212px;
+  height: 201px;
+  position: absolute;
+}
+.changepic-text4 {
+  top: 46.4210205078125px;
+  left: 56.267822265625px;
+  color: rgba(0, 0, 0, 1);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

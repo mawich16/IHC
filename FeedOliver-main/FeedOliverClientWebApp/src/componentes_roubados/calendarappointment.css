@@ -1,0 +1,1225 @@
+.calendarappointment-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.calendarappointment-calendar-appointment {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.calendarappointment-group8 {
+  top: 4px;
+  left: 0px;
+  width: 81px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.calendarappointment-rectangle3353 {
+  top: 0px;
+  left: 0px;
+  width: 81px;
+  height: 70px;
+  position: absolute;
+}
+.calendarappointment-rectangle4 {
+  top: 126px;
+  left: 17px;
+  width: 326px;
+  height: 409px;
+  position: absolute;
+  border-radius: 20px;
+}
+.calendarappointment-text {
+  top: 139px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle2 {
+  top: 0px;
+  left: -24px;
+  width: 383px;
+  height: 72px;
+  position: absolute;
+}
+.calendarappointment-vector {
+  top: 16px;
+  left: 252px;
+  width: 37px;
+  height: 39px;
+  position: absolute;
+}
+.calendarappointment-vector01 {
+  top: 20px;
+  left: 307px;
+  width: 36px;
+  height: 32px;
+  position: absolute;
+}
+.calendarappointment-rectangle3364 {
+  top: 207px;
+  left: 40px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+  border-style: solid;
+  border-width: 1px;
+}
+.calendarappointment-rectangle3372 {
+  top: 207px;
+  left: 80px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text02 {
+  top: 207px;
+  left: 81px;
+  color: rgba(0, 0, 0, 0.30000001192092896);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3377 {
+  top: 207px;
+  left: 280px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text04 {
+  top: 207px;
+  left: 285px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3376 {
+  top: 207px;
+  left: 240px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text05 {
+  top: 207px;
+  left: 245px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3375 {
+  top: 207px;
+  left: 200px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text06 {
+  top: 207px;
+  left: 205px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3374 {
+  top: 207px;
+  left: 160px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text07 {
+  top: 207px;
+  left: 165px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3373 {
+  top: 207px;
+  left: 120px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text08 {
+  top: 207px;
+  left: 125px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text09 {
+  top: 207px;
+  left: 41px;
+  color: rgba(0, 0, 0, 0.30000001192092896);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3378 {
+  top: 267px;
+  left: 40px;
+  width: 40px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-rectangle3379 {
+  top: 267px;
+  left: 80px;
+  width: 40px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text11 {
+  top: 267px;
+  left: 85px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3380 {
+  top: 267px;
+  left: 280px;
+  width: 40px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text12 {
+  top: 267px;
+  left: 281px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3381 {
+  top: 267px;
+  left: 240px;
+  width: 40px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text14 {
+  top: 267px;
+  left: 241px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3382 {
+  top: 267px;
+  left: 200px;
+  width: 40px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text16 {
+  top: 267px;
+  left: 201px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3383 {
+  top: 267px;
+  left: 160px;
+  width: 40px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text18 {
+  top: 267px;
+  left: 165px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3384 {
+  top: 267px;
+  left: 120px;
+  width: 40px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text19 {
+  top: 267px;
+  left: 125px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text20 {
+  top: 267px;
+  left: 45px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3392 {
+  top: 387px;
+  left: 40px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-rectangle3393 {
+  top: 387px;
+  left: 80px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text21 {
+  top: 387px;
+  left: 81px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3394 {
+  top: 387px;
+  left: 280px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text23 {
+  top: 387px;
+  left: 281px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3395 {
+  top: 387px;
+  left: 240px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text25 {
+  top: 387px;
+  left: 241px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3396 {
+  top: 387px;
+  left: 200px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text27 {
+  top: 387px;
+  left: 201px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3397 {
+  top: 387px;
+  left: 160px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text29 {
+  top: 387px;
+  left: 161px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3398 {
+  top: 387px;
+  left: 120px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-vector02 {
+  top: 232px;
+  left: 51px;
+  width: 25px;
+  height: 30px;
+  position: absolute;
+}
+.calendarappointment-text31 {
+  top: 387px;
+  left: 121px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text33 {
+  top: 387px;
+  left: 41px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3399 {
+  top: 447px;
+  left: 40px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-rectangle3400 {
+  top: 447px;
+  left: 80px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text35 {
+  top: 447px;
+  left: 81px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3401 {
+  top: 447px;
+  left: 280px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text37 {
+  top: 447px;
+  left: 281px;
+  color: rgba(0, 0, 0, 0.30000001192092896);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3402 {
+  top: 447px;
+  left: 240px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text38 {
+  top: 447px;
+  left: 241px;
+  color: rgba(0, 0, 0, 0.30000001192092896);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3403 {
+  top: 447px;
+  left: 200px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-vector03 {
+  top: 412px;
+  left: 251px;
+  width: 25px;
+  height: 30px;
+  position: absolute;
+}
+.calendarappointment-text39 {
+  top: 447px;
+  left: 201px;
+  color: rgba(0, 0, 0, 0.30000001192092896);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3404 {
+  top: 447px;
+  left: 160px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text40 {
+  top: 447px;
+  left: 161px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3405 {
+  top: 447px;
+  left: 120px;
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text42 {
+  top: 447px;
+  left: 121px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text44 {
+  top: 447px;
+  left: 41px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3385 {
+  top: 326px;
+  left: 40px;
+  width: 40px;
+  height: 61px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-rectangle3386 {
+  top: 326px;
+  left: 80px;
+  width: 40px;
+  height: 61px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text46 {
+  top: 326px;
+  left: 81px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3387 {
+  top: 326px;
+  left: 280px;
+  width: 40px;
+  height: 61px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text48 {
+  top: 326px;
+  left: 281px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3388 {
+  top: 326px;
+  left: 240px;
+  width: 40px;
+  height: 61px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text50 {
+  top: 326px;
+  left: 241px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3389 {
+  top: 326px;
+  left: 200px;
+  width: 40px;
+  height: 61px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text52 {
+  top: 326px;
+  left: 201px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-rectangle3390 {
+  top: 326px;
+  left: 160px;
+  width: 40px;
+  height: 61px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.30000001192092896);
+}
+.calendarappointment-text54 {
+  top: 326px;
+  left: 161px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text56 {
+  top: 326px;
+  left: 41px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-selectedday {
+  top: 326px;
+  left: 120px;
+  width: 40px;
+  height: 61px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.calendarappointment-vector04 {
+  top: 26px;
+  left: 11px;
+  width: 25px;
+  height: 30px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.calendarappointment-text58 {
+  left: 1px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-ellipse154 {
+  top: 330px;
+  left: 42px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.calendarappointment-text60 {
+  top: 326px;
+  left: 41px;
+  color: rgba(0, 0, 0, 1);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text62 {
+  top: 185px;
+  left: 47px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text64 {
+  top: 185px;
+  left: 292px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text66 {
+  top: 185px;
+  left: 250px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text68 {
+  top: 185px;
+  left: 210px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text70 {
+  top: 185px;
+  left: 170px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text72 {
+  top: 185px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-vector05 {
+  top: 412px;
+  left: 171px;
+  width: 25px;
+  height: 30px;
+  position: absolute;
+}
+.calendarappointment-vector06 {
+  top: 233px;
+  left: 131px;
+  width: 25px;
+  height: 30px;
+  position: absolute;
+}
+.calendarappointment-text74 {
+  top: 185px;
+  left: 129px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-uilarrow {
+  top: 139px;
+  left: 280px;
+  width: 38px;
+  height: 30px;
+  position: absolute;
+}
+.calendarappointment-next-appointment {
+  top: 551px;
+  left: 21px;
+  width: 327px;
+  height: 163px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.calendarappointment-rectangle3363 {
+  top: 0px;
+  left: 0px;
+  width: 319px;
+  height: 163px;
+  position: absolute;
+  border-radius: 20px;
+}
+.calendarappointment-text76 {
+  top: 5px;
+  left: 34px;
+  color: rgba(0, 0, 0, 1);
+  width: 191px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-text78 {
+  top: 31px;
+  left: 42px;
+  color: rgba(0, 0, 0, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.calendarappointment-mdicalendar {
+  top: 31px;
+  left: 19px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.calendarappointment-mingcutetimeline {
+  top: 51px;
+  left: 10px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.calendarappointment-group {
+  top: 0px;
+  left: 9px;
+  width: 15px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.calendarappointment-vector07 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.calendarappointment-feed-oliver1 {
+  top: 4px;
+  left: 17px;
+  width: 50px;
+  height: 64px;
+  position: absolute;
+}
+.calendarappointment-image4978d116799249f5a3d7781ad90fcafc1 {
+  top: 0px;
+  left: 22px;
+  width: 50px;
+  height: 74px;
+  position: absolute;
+}
+.calendarappointment-footer {
+  top: 728px;
+  left: -6px;
+  width: 377px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(192, 242, 142, 1);
+}
+.calendarappointment-vector08 {
+  top: 21px;
+  left: 265px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.calendarappointment-vector09 {
+  top: 21px;
+  left: 76px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.calendarappointment-vector10 {
+  top: 13px;
+  left: 163px;
+  width: 50px;
+  height: 45px;
+  position: absolute;
+}

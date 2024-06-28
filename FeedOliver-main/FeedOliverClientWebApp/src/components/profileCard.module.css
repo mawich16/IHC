@@ -1,0 +1,14 @@
+.profileCard {
+    /* Add shadows to create the "card" effect */
+    width: 90%;
+    height: 125px;
+    border-radius: 25px;
+    margin: 20px auto;
+    background-color: #E0FFC1;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    font-size: 20px;
+}
